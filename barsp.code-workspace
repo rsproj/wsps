@@ -1,0 +1,64 @@
+{
+    "folders": [
+        {
+            "name": "core",
+            "path": "../core"
+        },
+        {
+            "name": "scripts",
+            "path": "../core/scripts"
+        },
+        {
+            "name": "fsys",
+            "path": "../core/fsys"
+        },
+        {
+            "name": "lib",
+            "path": "../core/fsys/usr/local/lib"
+        },
+        {
+            "name": "bin",
+            "path": "../core/fsys/usr/local/bin"
+        },
+        {
+            "name": "sbin",
+            "path": "../core/fsys/usr/local/sbin"
+        },
+        {
+            "name": "service",
+            "path": "../core/fsys/usr/local/service"
+        },
+        {
+            "name": "oh-my-bash",
+            "path": "../core/fsys/usr/local/share/oh-my-bash"
+        },
+        {
+            "name": "applications",
+            "path": "../core/fsys/usr/local/share/applications"
+        },
+        {
+            "name": "xdg",
+            "path": "../core/fsys/etc/xdg"
+        },
+        {
+            "name": "skel",
+            "path": "../core/fsys/etc/skel"
+        },
+        {
+            "name": "neofetch",
+            "path": "../core/fsys/etc/neofetch"
+        },
+        {
+            "name": "icons",
+            "path": "../core/fsys/usr/share/icons"
+        },
+        {
+            "name": "wallpapers",
+            "path": "../core/fsys/usr/share/wallpapers"
+        },
+        {
+            "name": "wayland-sessions",
+            "path": "../core/fsys/usr/share/wayland-sessions"
+        }
+    ]
+}
